@@ -1,16 +1,29 @@
-# responsive_modern_login_ui
+# Flutter Responsive Modern Login UI
 
-A new Flutter project.
+Design Credits: Oliver Cederborg
+Original Design: [View on Dribbble](https://dribbble.com/shots/15123314-Sign-In)
+
+## Description
+
+This project showcases a modern, responsive login user interface (UI) built using Flutter. The UI is designed to adapt to various screen sizes, making it suitable for different devices, including smartphones and tablets. It incorporates a sleek design with a focus on user experience, providing an intuitive login flow for users.
+
+## Features
+
+- Responsive UI design that adapts to various screen sizes.
+- Clean and modern user interface for a pleasant user experience.
+- Easily customizable components to tailor the login screen to your app's branding.
+
+## Screenshots
+
+![Screenshot](image.png)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Follow the steps below to set up the project on your local machine and run it:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the repository:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/JosephDoUrden/ResponsiveModernLoginUI
+cd ResponsiveModernLoginUI/
+flutter run
