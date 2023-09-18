@@ -1,6 +1,6 @@
 # Flutter Responsive Modern Login UI
 
-![banner](medium-clone.png)
+![banner](modern-login-ui.png)
 
 Design Credits: Oliver Cederborg
 Original Design: [View on Dribbble](https://dribbble.com/shots/15123314-Sign-In)
